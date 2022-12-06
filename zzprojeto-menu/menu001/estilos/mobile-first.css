@@ -24,6 +24,13 @@ header .material-icons {
     margin-left: 10px;
 }
 
+menu {
+    background-color: lightgray;
+    list-style-type: none;
+}
+
+
+
 main {
     padding: 10px;
 }
