@@ -32,10 +32,12 @@ menu#itensMenu {
     top: 0px;
     left: 0px;
 
-    width: 70%;
+    width: 250px;
     height: 100%;
     background-color: #956868f3;
     list-style-type: none;
+
+    transition: width 2s;
 
 }
 
